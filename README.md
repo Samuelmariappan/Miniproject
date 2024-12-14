@@ -12,7 +12,7 @@ Accuracy: Employs state-of-the-art neural networks for precise disease identific
 Scalability: Can be extended to support multiple crop types and disease variations.
 The ultimate aim is to empower farmers, especially in resource-limited regions, to monitor their crops effectively, minimize losses, and promote sustainable farming practices.
 
-## Features
+# Features
 <!--List the features of the project as shown below-->
 ## Image-Based Detection:
 
