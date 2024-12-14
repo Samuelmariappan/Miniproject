@@ -14,49 +14,49 @@ The ultimate aim is to empower farmers, especially in resource-limited regions, 
 
 # Features
 <!--List the features of the project as shown below-->
-## Image-Based Detection:
+#### Image-Based Detection:
 
 Analyzes crop leaf images to detect disease symptoms like discoloration, spots, and texture anomalies.
 
-## Deep Learning Architecture:
+#### Deep Learning Architecture:
 
 Utilizes CNNs (Convolutional Neural Networks) to extract features and classify diseases.
 Transfer learning with pre-trained models (e.g., VGG16, InceptionV3) improves performance on small datasets.
 
-## Real-Time Feedback:
+#### Real-Time Feedback:
 
 Outputs disease classification and confidence scores instantly upon image upload.
 
-## Multi-Disease Classification:
+#### Multi-Disease Classification:
 
 Supports multiple crop diseases (e.g., early blight, late blight, bacterial spots).
 
-## User-Friendly Interface:
+#### User-Friendly Interface:
 
 Accessible via mobile or web apps, allowing farmers to upload images easily and receive actionable insights.
 
-## Sustainability Focused:
+#### Sustainability Focused:
 
 Reduces overuse of pesticides by pinpointing the exact issue, enabling targeted treatments.
 
-## Data-Driven Insights:
+#### Data-Driven Insights:
 
 Generates reports and recommendations for disease management, assisting agricultural stakeholders.
 ## Requirements
 <!--List the requirements of the project as shown below-->
-## Hardware:
-## GPU: NVIDIA GeForce GTX 1650 (or equivalent).
-## Memory: 8 GB RAM (minimum).
-## Processor: Intel Core i5 – 1240 (12th Gen or better).
-## Software:
-## Python 3.8 (or later).
-## TensorFlow (Deep learning framework).
-## Scikit-Learn (For evaluation metrics).
-## OpenCV (Image preprocessing).
-## Libraries and Frameworks:
-## Keras for model design.
-## Matplotlib/Seaborn for visualization.
-## ImageDataGenerator for augmentation.
+#### Hardware:
+#### GPU: NVIDIA GeForce GTX 1650 (or equivalent).
+#### Memory: 8 GB RAM (minimum).
+#### Processor: Intel Core i5 – 1240 (12th Gen or better).
+#### Software:
+#### Python 3.8 (or later).
+#### TensorFlow (Deep learning framework).
+#### Scikit-Learn (For evaluation metrics).
+#### OpenCV (Image preprocessing).
+#### Libraries and Frameworks:
+#### Keras for model design.
+#### Matplotlib/Seaborn for visualization.
+#### ImageDataGenerator for augmentation.
 
 
 ## System Architecture
